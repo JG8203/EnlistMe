@@ -1,0 +1,13 @@
+# plugin.yml
+name: EnlistMe
+version: 1.0
+main: com.dlsu.joshua.EnlistMe
+commands:
+  login:
+    description: Login to animo.sys
+  listcourses:
+    description: List courses from enroll.dlsu
+  addtocart:
+    description: Add a course to cart
+  checkout:
+    description: Enlist all courses in the cart
